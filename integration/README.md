@@ -1,5 +1,5 @@
 # Consignes
-Votre mission est de créer des tests d'intégration pour vérifier que les différents services du système de commandes en ligne fonctionnent correctement ensemble. Vous utiliserez Jest comme framework de test.
+Votre mission est de créer des tests d'intégration pour vérifier que les différents services du système de commandes en ligne fonctionnent correctement ensemble. Vous utiliserez Vitest comme framework de test.
 Objectifs des tests d'intégration
 
 - Tester l'interaction entre les différents services
